@@ -1,0 +1,1 @@
+/home/nazr/Desktop/projects/check_rust/diesel/target/debug/diesell: /home/nazr/Desktop/projects/check_rust/diesel/src/lib.rs /home/nazr/Desktop/projects/check_rust/diesel/src/main.rs /home/nazr/Desktop/projects/check_rust/diesel/src/models.rs /home/nazr/Desktop/projects/check_rust/diesel/src/schema.rs

@@ -1,0 +1,5 @@
+/home/nazr/Desktop/projects/check_rust/tokio_redis/target/debug/deps/atty-78703cacb6a203ce.d: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/atty-0.2.14/src/lib.rs
+
+/home/nazr/Desktop/projects/check_rust/tokio_redis/target/debug/deps/libatty-78703cacb6a203ce.rmeta: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/atty-0.2.14/src/lib.rs
+
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/atty-0.2.14/src/lib.rs:

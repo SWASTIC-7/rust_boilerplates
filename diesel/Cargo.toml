@@ -1,0 +1,12 @@
+[package]
+name = "diesell"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "diesell"
+path = "src/main.rs"
+
+[dependencies]
+diesel = { version = "2.2.0", features = ["mysql"] }
+dotenvy = "0.15"
